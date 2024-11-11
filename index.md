@@ -15,3 +15,8 @@ public static void main(String[] args) {
   System.out.println("Muito mais simples agora!");
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] N.D.A.
